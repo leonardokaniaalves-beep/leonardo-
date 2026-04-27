@@ -6,3 +6,7 @@ body{
 background-color: #8b0000;
 display: flex;
 }
+div {
+    margin: 20px;
+    padding: 20px;
+}
